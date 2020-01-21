@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 123817482
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: testscene_476ef117e516dc14b5ba4791996f2036
+      Dependencies: {}
+    Info_1:
+      Name: model_585e0d30923bf32279f731588f7609af
+      Dependencies: {}
